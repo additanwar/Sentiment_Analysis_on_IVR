@@ -1,5 +1,4 @@
 # Integrate Amazon DynamoDB table with machine learning for real-time sentiment analysis  
-### TrendMarketPlace-Team-1 
 
 This application is to check the sentiment on the incoming product review, creates a product review summary based on the sentiment, and keeps updates in optimized format for future ad hoc queries and analytics. We used a serverless event-driven architecture with automated steps by deploying the whole process on AWS CloudFormation.   
 
